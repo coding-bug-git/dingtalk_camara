@@ -1,6 +1,6 @@
 const name = process.env.VUE_APP_TITLE || 'coding-bug' // 网页标题
 
-const port = process.env.port || process.env.npm_config_port || 9123 // 端口
+const port = process.env.port || process.env.npm_config_port || 9124 // 端口
 
 module.exports = {
   devServer: {
